@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755805731317",
+    "project_id": "wilson-tours-541b9",
+    "storage_bucket": "wilson-tours-541b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755805731317:android:fb122418038ab6645c48bc",
+        "android_client_info": {
+          "package_name": "com.dashboard.wilson_tours_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755805731317-leieeh7d1jti7c1vevvr1tuudpgepl4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6vCcbYh2nQF7PISoGwtvFj-5rN56ckE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755805731317-leieeh7d1jti7c1vevvr1tuudpgepl4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
